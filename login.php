@@ -60,7 +60,7 @@ $conn->close();
                 </div>
                 <div class="input-container">
                     <label for="password">Password</label>
-                    <input type="text" name="password" id="" required>
+                    <input type="password" name="password" id="" required>
                 </div>
 
                 <button type="submit">Login</button>
